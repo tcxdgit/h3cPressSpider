@@ -1,0 +1,6 @@
+*.xls
+*.txt
+*.rb
+files/*
+__pycache__
+.idea/
